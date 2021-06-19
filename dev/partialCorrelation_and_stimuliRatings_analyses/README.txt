@@ -1,0 +1,5 @@
+ActorsActing_stimuliRatings_analyses.m - MATLAB script that takes stimuli ratings (survey_data.csv) and emotion category assignments (assignment_data.csv) and performs the following analyses: run one-way ANOVAs with planned contrasts to confirm category assignments; compute rated complexity to compare between scenario alone and face alone ratings, as well as between low and high intensity scenarios; compute false positive rate based on face alone ratings, to compare this against that for coded facial movements 
+
+ActorsActing_(semi)partialCorrelation_analyses.ipynb - Jupyter notebook Python script that computes partial and semi-partial correlations between scenario+face ratings and scenario alone vs. face alone ratings, respectively; also generates heatmaps used as the basis for main text figure 4 (although these underwent downstream image editing)
+
+ 
